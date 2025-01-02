@@ -2214,6 +2214,7 @@ checksum = "1e9df38ee2d2c3c5948ea468a8406ff0db0b29ae1ffde1bcf20ef305bcc95c51"
 [[package]]
 name = "xml-rpc"
 version = "0.0.12"
+source = "git+https://github.com/AvalorAI/xml-rpc#49d253dd47b188b8dda241e09abfb29bf1477764"
 dependencies = [
  "base64 0.6.0",
  "error-chain 0.10.0",
